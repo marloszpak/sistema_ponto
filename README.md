@@ -1,3 +1,5 @@
+## Como rodar o projeto localmente
+
 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/marloszpak/sistema_ponto.git
